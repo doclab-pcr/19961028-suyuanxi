@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.doclab.se	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1614658619|DtMYF8rhj9XP
+www.doclab.se	TRUE	/	FALSE	1999999999	hs	-1288920613
+www.doclab.se	TRUE	/	FALSE	1999999999	svSession	b01c91f1bb446b8b32fe8d228a20aee32185d81b232a8ac0fba28ab8f4364daec41f553f3144dd7d72e8002b4cba5f8b1e60994d53964e647acf431e4f798bcd6025353352d157c435d53608b013744dabb290e414cb207baafc3f1e25fc36ac
+www.doclab.se	TRUE	/	FALSE	1999999999	SameSite	None
+www.doclab.se	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=none"
+
